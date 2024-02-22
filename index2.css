@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(90deg, rgb(4, 34, 169), rgb(4, 166, 56));
+}
+.watazako {
+    font-family: sans-serif;
+    color: white;
+    font-size: 50px;
+}
+.setumei {
+    font-family: sans-serif;
+    color: white;
+    font-size: 20px;
+}
+.style {
+    size: 90px;
+}
