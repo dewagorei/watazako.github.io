@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(90deg, rgb(4, 34, 169), rgb(4, 166, 56));
+}
+.last {
+    font-family: sans-serif;
+    color: white;
+    font-size: 50px;
+}
+p {
+    font-family: sans-serif;
+    color: white;
+    font-size: 50px;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    
+}
